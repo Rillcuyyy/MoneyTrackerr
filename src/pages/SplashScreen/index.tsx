@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import {StyleSheet, Text, View} from 'react-native';
 import React, {useEffect} from 'react';
 import Logo from '../../assets/icon/Logo.svg';

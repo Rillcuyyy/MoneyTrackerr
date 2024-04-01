@@ -1,5 +1,7 @@
+/* eslint-disable prettier/prettier */
 import React from 'react';
 import {StyleSheet, Text, TouchableOpacity} from 'react-native';
+import {BackButton, Logo} from '../../../assets/icon';
 
 const Button = ({
   label,

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import {StyleSheet, Text, View, TextInput as Input} from 'react-native';
 import React from 'react';
 

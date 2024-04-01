@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Logo from './Logo.svg';
 import BackButton from './BackButton.svg';
 

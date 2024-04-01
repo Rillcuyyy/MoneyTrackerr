@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from 'react';
 import {
   ScrollView,
@@ -7,6 +8,8 @@ import {
   Text,
 } from 'react-native';
 import {Button, Gap, PageHeader, TextInput} from '../../components';
+
+
 
 const SignUp = ({navigation}) => {
   return (
